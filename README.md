@@ -79,6 +79,7 @@
 
 - [ ] [free books](https://tadoku.org/japanese/en/free-books-en/)
 - [x] [free grammer Book](https://nihongolibrary.com/home/free-japanese-study-materials/)
+- [x] [books](https://mega.nz/folder/cVgyTSBC#FPmBX5DW7yW4RXBhXR_HOg)
 
 > Other resource 
 
