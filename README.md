@@ -62,6 +62,10 @@
 | バ   | ビ   | ブ   | べ   | ボ   |
 | パ   | ピ   | プ   | ペ   | ポ   |
 
+
+---
+
+
 > Practice kana online 
 
 - [ ] [Practice ](https://practice-japanese.com/hiragana-reading-practice/)
