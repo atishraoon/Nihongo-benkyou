@@ -71,14 +71,14 @@
 
 > Kanji
 
-- [ ] [Kanji](https://www.michikanji.com/kanji)
+- [x] [Kanji](https://www.michikanji.com/kanji)
 
 
 
 > Books
 
 - [ ] [free books](https://tadoku.org/japanese/en/free-books-en/)
-- [ ] [free grammer Book](https://nihongolibrary.com/home/free-japanese-study-materials/)
+- [x] [free grammer Book](https://nihongolibrary.com/home/free-japanese-study-materials/)
 
 > Other resource 
 
