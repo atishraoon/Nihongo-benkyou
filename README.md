@@ -40,7 +40,7 @@
 |  P  | ぴや pya | ぴゆ pyu | ぴよ pyo |
 |  R  | りゃ rya | りゆ ryu | りよ ryo |
 
-カタカナ
+### カタカナ
 
 | ア   | イ   | ウ   | エ   | オ   |
 | --- | --- | --- | --- | --- |
@@ -71,19 +71,19 @@
 
 > Kanji
 
-- [ ] ==🟢[Kanji](https://www.michikanji.com/kanji)===
+- [ ] [Kanji](https://www.michikanji.com/kanji)
 
 
 
 > Books
 
 - [ ] [free books](https://tadoku.org/japanese/en/free-books-en/)
-- [ ] ==🟡[free grammer Book](https://nihongolibrary.com/home/free-japanese-study-materials/)===
+- [ ] [free grammer Book](https://nihongolibrary.com/home/free-japanese-study-materials/)
 
 > Other resource 
 
 - [ ] [links](https://www.reddit.com/r/LetsStudyJapanese/comments/dlajm3/books/)
-- [ ] ==🟢[jlpt N5 N4 N3 N2 N1 . Voc](https://www.jlptmatome.com/)===
+- [x] [jlpt N5 N4 N3 N2 N1 . Voc](https://www.jlptmatome.com/)
 - [ ] [Grammer . Kanji . example](https://a1.marugotoweb.jp/en/)
 
 
